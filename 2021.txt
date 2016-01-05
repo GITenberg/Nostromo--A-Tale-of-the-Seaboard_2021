@@ -488,12 +488,12 @@ Year after year the black hulls of their ships had gone up and down
 the coast, in and out, past Azuera, past the Isabels, past Punta
 Mala—disregarding everything but the tyranny of time. Their names, the
 names of all mythology, became the household words of a coast that had
-never been ruled by the gods of Olympus. The Juno was known only for
-her comfortable cabins amidships, the Saturn for the geniality of her
+never been ruled by the gods of Olympus. The _Juno_ was known only for
+her comfortable cabins amidships, the _Saturn_ for the geniality of her
 captain and the painted and gilt luxuriousness of her saloon, whereas
-the Ganymede was fitted out mainly for cattle transport, and to be
+the _Ganymede_ was fitted out mainly for cattle transport, and to be
 avoided by coastwise passengers. The humblest Indian in the obscurest
-village on the coast was familiar with the Cerberus, a little black
+village on the coast was familiar with the _Cerberus_, a little black
 puffer without charm or living accommodation to speak of, whose mission
 was to creep inshore along the wooded beaches close to mighty ugly
 rocks, stopping obligingly before every cluster of huts to collect
@@ -1169,7 +1169,7 @@ personal quality of conviction, something they called “terribilita”—“an
 old lion,” they used to say of him. Some slight incident, a chance
 word would set him off talking on the beach to the Italian fishermen of
 Maldonado, in the little shop he kept afterwards (in Valparaiso) to his
-countrymen customers; of an evening, suddenly, in the cafe at one end of
+countrymen customers; of an evening, suddenly, in the _cafe_ at one end of
 the Casa Viola (the other was reserved for the English engineers) to the
 select clientele of engine-drivers and foremen of the railway shops.
 
@@ -1206,9 +1206,9 @@ had described the National Central Railway in his great speech at the
 turning of the first sod.
 
 He had come on purpose to Sulaco, and there was a one-o’clock
-dinner-party, a convité offered by the O.S.N. Company on board the Juno
+dinner-party, a _convité_ offered by the O.S.N. Company on board the _Juno_
 after the function on shore. Captain Mitchell had himself steered the
-cargo lighter, all draped with flags, which, in tow of the Juno’s steam
+cargo lighter, all draped with flags, which, in tow of the _Juno’s_ steam
 launch, took the Excellentissimo from the jetty to the ship. Everybody
 of note in Sulaco had been invited—the one or two foreign merchants,
 all the representatives of the old Spanish families then in town, the
@@ -1231,7 +1231,7 @@ the first sod had taken place. She had come off in the cargo lighter,
 full of notabilities, sitting under the flutter of gay flags, in the
 place of honour by the side of Captain Mitchell, who steered, and her
 clear dress gave the only truly festive note to the sombre gathering in
-the long, gorgeous saloon of the Juno.
+the long, gorgeous saloon of the _Juno_.
 
 The head of the chairman of the railway board (from London), handsome
 and pale in a silvery mist of white hair and clipped beard, hovered near
@@ -1358,7 +1358,7 @@ Military Commandant of the capital.
 The Minister of War, then, accompanied the Dictator. The board of the
 O.S.N. Company, working hand-in-hand with the railway people for the
 good of the Republic, had on this important occasion instructed Captain
-Mitchell to put the mail-boat Juno at the disposal of the distinguished
+Mitchell to put the mail-boat _Juno_ at the disposal of the distinguished
 party. Don Vincente, journeying south from Sta. Marta, had embarked at
 Cayta, the principal port of Costaguana, and came to Sulaco by sea.
 But the chairman of the railway company had courageously crossed the
@@ -1596,7 +1596,7 @@ Inglez—the Englishman of Sulaco. He looked more English than a casual
 tourist, a sort of heretic pilgrim, however, quite unknown in Sulaco.
 He looked more English than the last arrived batch of young railway
 engineers, than anybody out of the hunting-field pictures in the numbers
-of Punch reaching his wife’s drawing-room two months or so after date.
+of _Punch_ reaching his wife’s drawing-room two months or so after date.
 It astonished you to hear him talk Spanish (Castillan, as the natives
 say) or the Indian dialect of the country-people so naturally. His
 accent had never been English; but there was something so indelible
@@ -1612,7 +1612,7 @@ special form of exercise; it was a natural faculty, as walking straight
 is to all men sound of mind and limb; but, all the same, when cantering
 beside the rutty ox-cart track to the mine he looked in his English
 clothes and with his imported saddlery as though he had come this moment
-to Costaguana at his easy swift pasotrote, straight out of some green
+to Costaguana at his easy swift _pasotrote_, straight out of some green
 meadow at the other side of the world.
 
 His way would lie along the old Spanish road—the Camino Real of popular
@@ -1671,7 +1671,7 @@ hours of the day. Basilio, in a livery of white linen and a red sash,
 had squatted for a moment behind his heels to unstrap the heavy, blunt
 spurs in the patio; and then the Señor Administrator would go up the
 staircase into the gallery. Rows of plants in pots, ranged on the
-balustrade between the pilasters of the arches, screened the corredor
+balustrade between the pilasters of the arches, screened the _corredor_
 with their leaves and flowers from the quadrangle below, whose paved
 space is the true hearthstone of a South American house, where the quiet
 hours of domestic life are marked by the shifting of light and shadow on
@@ -1734,7 +1734,7 @@ long turmoil of pronunciamentos that followed the death of the famous
 Guzman Bento, the native miners, incited to revolt by the emissaries
 sent out from the capital, had risen upon their English chiefs and
 murdered them to a man. The decree of confiscation which appeared
-immediately afterwards in the Diario Official, published in Sta. Marta,
+immediately afterwards in the _Diario Official_, published in Sta. Marta,
 began with the words: “Justly incensed at the grinding oppression of
 foreigners, actuated by sordid motives of gain rather than by love for a
 country where they come impoverished to seek their fortunes, the mining
@@ -2206,7 +2206,7 @@ high up, swung from her hand raised above her raven black head, a bunch
 of starched under-skirts dazzlingly white in the slant of sunshine. Then
 the old porter would hobble in, sweeping the flagstones, and the
 house was ready for the day. All the lofty rooms on three sides of
-the quadrangle opened into each other and into the corredor, with its
+the quadrangle opened into each other and into the _corredor_, with its
 wrought-iron railings and a border of flowers, whence, like the lady of
 the mediaeval castle, she could witness from above all the departures
 and arrivals of the Casa, to which the sonorous arched gateway lent an
@@ -2253,7 +2253,7 @@ of the mine rendered her so impatient and uneasy, whereas she could talk
 of the mine by the hour with her husband with unwearied interest and
 satisfaction. And dropping her eyelids expressively, she added—
 
-“What do you feel about it, Charley?”
+“What do _you_ feel about it, Charley?”
 
 Then, surprised at her husband’s silence, she raised her eyes, opened
 wide, as pretty as pale flowers. He had done with the spurs, and,
@@ -2345,7 +2345,7 @@ ruinous thing, waiting for just some such chance, and waste my life
 miserably. That was the true sense of his prohibition, which we have
 deliberately set aside.”
 
-They were walking up and down the corredor. Her head just reached to his
+They were walking up and down the _corredor_. Her head just reached to his
 shoulder. His arm, extended downwards, was about her waist. His spurs
 jingled slightly.
 
@@ -2620,7 +2620,7 @@ a serious affair, and he, too, took it grimly.
 
 “Of course,” he said to his wife, alluding to this last conversation
 with the departed guest, while they walked slowly up and down the
-corredor, followed by the irritated eye of the parrot—“of course, a
+_corredor_, followed by the irritated eye of the parrot—“of course, a
 man of that sort can take up a thing or drop it when he likes. He will
 suffer from no sense of defeat. He may have to give in, or he may have
 to die to-morrow, but the great silver and iron interests will survive,
@@ -2691,7 +2691,7 @@ vast shape to the vagueness of her unselfish ambitions.
 
 “Charley,” she said, “you are splendidly disobedient.”
 
-He left her suddenly in the corredor to go and get his hat, a soft, grey
+He left her suddenly in the _corredor_ to go and get his hat, a soft, grey
 sombrero, an article of national costume which combined unexpectedly
 well with his English get-up. He came back, a riding-whip under his arm,
 buttoning up a dogskin glove; his face reflected the resolute nature of
@@ -2764,10 +2764,10 @@ Men ploughed with wooden ploughs and yoked oxen, small on a boundless
 expanse, as if attacking immensity itself. The mounted figures of
 vaqueros galloped in the distance, and the great herds fed with all
 their horned heads one way, in one single wavering line as far as eye
-could reach across the broad potreros. A spreading cotton-wool tree
+could reach across the broad _potreros_. A spreading cotton-wool tree
 shaded a thatched ranche by the road; the trudging files of burdened
 Indians taking off their hats, would lift sad, mute eyes to the
-cavalcade raising the dust of the crumbling camino real made by the
+cavalcade raising the dust of the crumbling _camino real_ made by the
 hands of their enslaved forefathers. And Mrs. Gould, with each day’s
 journey, seemed to come nearer to the soul of the land in the tremendous
 disclosure of this interior unaffected by the slight European veneer
@@ -2842,7 +2842,7 @@ known that just before this exile he had incautiously gambled away all
 the cash in the Custom House of a small port where a friend in power had
 procured for him the post of subcollector. That youthful indiscretion
 had, amongst other inconveniences, obliged him to earn his living for a
-time as a cafe waiter in Madrid; but his talents must have been great,
+time as a _cafe_ waiter in Madrid; but his talents must have been great,
 after all, since they had enabled him to retrieve his political
 fortunes so splendidly. Charles Gould, exposing his business with an
 imperturbable steadiness, called him Excellency.
@@ -2964,7 +2964,7 @@ crossing the street about five o’clock to call on Dona Emilia, always
 acknowledged his humble salute by some movement of hand or head. The
 porters of both houses conversed lazily with him in tones of grave
 intimacy. His evenings he devoted to gambling and to calls in a spirit
-of generous festivity upon the peyne d'oro girls in the more remote
+of generous festivity upon the _peyne d’oro_ girls in the more remote
 side-streets of the town. But he, too, was a discreet man.
 
 
@@ -3292,7 +3292,7 @@ its spray had died around the dried-up pool, and the high ravine was
 only a big trench half filled up with the refuse of excavations and
 tailings. The torrent, dammed up above, sent its water rushing along
 the open flumes of scooped tree trunks striding on trestle-legs to the
-turbines working the stamps on the lower plateau—the mesa grande of the
+turbines working the stamps on the lower plateau—the _mesa grande_ of the
 San Tome mountain. Only the memory of the waterfall, with its amazing
 fernery, like a hanging garden above the rocks of the gorge, was
 preserved in Mrs. Gould’s water-colour sketch; she had made it hastily
@@ -3510,7 +3510,7 @@ in the first light of the dawn, on the heads of cloaked figures;
 Winchesters on hip; bridle hands protruding lean and brown from under
 the falling folds of the ponchos. The convoy skirting a little wood,
 along the mine trail, between the mud huts and low walls of Rincon,
-increased its pace on the camino real, mules urged to speed, escort
+increased its pace on the _camino real_, mules urged to speed, escort
 galloping, Don Carlos riding alone ahead of a dust storm affording a
 vague vision of long ears of mules, of fluttering little green and white
 flags stuck upon each cart; of raised arms in a mob of sombreros with
@@ -3627,7 +3627,7 @@ away, as the engineer-in-chief had foretold they would, before Charles
 Gould’s mediation. Sir John had been extremely feted in Sulaco, next
 to the President-Dictator, a fact which might have accounted for the
 evident ill-humour General Montero displayed at lunch given on board
-the Juno just before she was to sail, taking away from Sulaco the
+the _Juno_ just before she was to sail, taking away from Sulaco the
 President-Dictator and the distinguished foreign guests in his train.
 
 The Excellentissimo (“the hope of honest men,” as Don José had addressed
@@ -3750,7 +3750,7 @@ you the very object of my request.”
 
 An enormous national flag of Costaguana, diagonal red and yellow, with
 two green palm trees in the middle, floated lazily at the mainmast head
-of the Juno. A multitude of fireworks being let off in their thousands
+of the _Juno_. A multitude of fireworks being let off in their thousands
 at the water’s edge in honour of the President kept up a mysterious
 crepitating noise half round the harbour. Now and then a lot of rockets,
 swishing upwards invisibly, detonated overhead with only a puff of smoke
@@ -3765,7 +3765,7 @@ Don Vincente Ribiera made a few steps under the deck-awning, leaning on
 the arm of Señor Avellanos; a wide circle was formed round him, where
 the mirthless smile of his dark lips and the sightless glitter of his
 spectacles could be seen turning amiably from side to side. The
-informal function arranged on purpose on board the Juno to give the
+informal function arranged on purpose on board the _Juno_ to give the
 President-Dictator an opportunity to meet intimately some of his most
 notable adherents in Sulaco was drawing to an end. On one side, General
 Montero, his bald head covered now by a plumed cocked hat, remained
@@ -3784,7 +3784,7 @@ her fascinated eyes away at last.
 
 Charles, coming up to take leave of Sir John, heard him say, as he bent
 over his wife’s hand, “Certainly. Of course, my dear Mrs. Gould, for a
-protege of yours! Not the slightest difficulty. Consider it done.”
+_protege_ of yours! Not the slightest difficulty. Consider it done.”
 
 Going ashore in the same boat with the Goulds, Don José Avellanos was
 very silent. Even in the Gould carriage he did not open his lips for
@@ -4035,7 +4035,7 @@ the crowd.
 The circle had broken up, and the lordly Capataz de Cargadores, the
 indispensable man, the tried and trusty Nostromo, the Mediterranean
 sailor come ashore casually to try his luck in Costaguana, rode slowly
-towards the harbour. The Juno was just then swinging round; and even
+towards the harbour. The _Juno_ was just then swinging round; and even
 as Nostromo reined up again to look on, a flag ran up on the improvised
 flagstaff erected in an ancient and dismantled little fort at the
 harbour entrance. Half a battery of field guns had been hurried over
@@ -4541,7 +4541,7 @@ been long settled in Paris, where he had studied law, had dabbled in
 literature, had hoped now and then in moments of exaltation to become a
 poet like that other foreigner of Spanish blood, José Maria Heredia. In
 other moments he had, to pass the time, condescended to write articles
-on European affairs for the Semenario, the principal newspaper in
+on European affairs for the _Semenario_, the principal newspaper in
 Sta. Marta, which printed them under the heading “From our special
 correspondent,” though the authorship was an open secret. Everybody in
 Costaguana, where the tale of compatriots in Europe is jealously kept,
@@ -4562,7 +4562,7 @@ actors believe themselves to be influencing the fate of the universe.
 Of course, government in general, any government anywhere, is a thing
 of exquisite comicality to a discerning mind; but really we
 Spanish-Americans do overstep the bounds. No man of ordinary
-intelligence can take part in the intrigues of une farce macabre.
+intelligence can take part in the intrigues of _une farce macabre_.
 However, these Ribierists, of whom we hear so much just now, are really
 trying in their own comical way to make the country habitable, and even
 to pay some of its debts. My friends, you had better write up Señor
@@ -4753,7 +4753,7 @@ remnants, to these sinister mummies, these impotent paraliticos, who
 plotted with foreigners for the surrender of the lands and the slavery
 of the people.
 
-The clamour of this Negro Liberalism frightened Señor Avellanos. A
+The clamour of this _Negro Liberalism_ frightened Señor Avellanos. A
 newspaper was the only remedy. And now that the right man had been found
 in Decoud, great black letters appeared painted between the windows
 above the arcaded ground floor of a house on the Plaza. It was next to
@@ -4788,7 +4788,7 @@ hands grasping his shoulders from behind; and the rims of their hats
 touching, made like one disc sustaining the cones of two pointed crowns
 with a double face underneath. A hoarse mozo would bawl out something to
 an acquaintance in the ranks, or a woman would shriek suddenly the word
-Adios! followed by the Christian name of a man.
+_Adios!_ followed by the Christian name of a man.
 
 General Barrios, in a shabby blue tunic and white peg-top trousers
 falling upon strange red boots, kept his head uncovered and stooped
@@ -4830,7 +4830,7 @@ by the rising star of Montero. All his life he had been an inveterate
 gambler. He alluded himself quite openly to the current story how once,
 during some campaign (when in command of a brigade), he had gambled away
 his horses, pistols, and accoutrements, to the very epaulettes, playing
-monte with his colonels the night before the battle. Finally, he had
+_monte_ with his colonels the night before the battle. Finally, he had
 sent under escort his sword (a presentation sword, with a gold hilt) to
 the town in the rear of his position to be immediately pledged for five
 hundred pesetas with a sleepy and frightened shop-keeper. By daybreak he
@@ -4943,9 +4943,9 @@ desperate game. Distant acclamations, words of command yelled out, and a
 roll of drums on the jetty greeted the departing general. Something like
 a slight faintness came over her, and she looked blankly at Antonia’s
 still face, wondering what would happen to Charley if that absurd man
-failed. “A la casa, Ignacio,” she cried at the motionless broad back of
+failed. “_A la casa, Ignacio,_” she cried at the motionless broad back of
 the coachman, who gathered the reins without haste, mumbling to himself
-under his breath, “Si, la casa. Si, si nina.”
+under his breath, “_Si, la casa. Si, si nina._”
 
 The carriage rolled noiselessly on the soft track, the shadows fell
 long on the dusty little plain interspersed with dark bushes, mounds
@@ -4956,12 +4956,12 @@ campo—like a slender, vibrating feeler of that progress waiting outside
 for a moment of peace to enter and twine itself about the weary heart of
 the land.
 
-The cafe window of the Albergo d'ltalia Una was full of sunburnt,
+The _cafe_ window of the Albergo d'ltalia Una was full of sunburnt,
 whiskered faces of railway men. But at the other end of the house, the
 end of the Signori Inglesi, old Giorgio, at the door with one of his
 girls on each side, bared his bushy head, as white as the snows of
 Higuerota. Mrs. Gould stopped the carriage. She seldom failed to speak
-to her protege; moreover, the excitement, the heat, and the dust had
+to her _protege_; moreover, the excitement, the heat, and the dust had
 made her thirsty. She asked for a glass of water. Giorgio sent the
 children indoors for it, and approached with pleasure expressed in his
 whole rugged countenance. It was not often that he had occasion to see
@@ -5211,7 +5211,7 @@ after them with some light wraps on his arm.
 
 Don José slipped his hand under the arm of the journalist of Sulaco.
 
-“The Porvenir must have a long and confident article upon Barrios and
+“The _Porvenir_ must have a long and confident article upon Barrios and
 the irresistibleness of his army of Cayta! The moral effect should be
 kept up in the country. We must cable encouraging extracts to Europe and
 the United States to maintain a favourable impression abroad.”
@@ -5275,7 +5275,7 @@ He paused. She turned her head a little; her blue eyes glided slowly
 towards him, slightly upwards, mollified and questioning.
 
 “You can’t think I am serious when I call Montero a gran’ bestia
-every second day in the Porvenir? That is not a serious occupation. No
+every second day in the _Porvenir_? That is not a serious occupation. No
 occupation is serious, not even when a bullet through the heart is the
 penalty of failure!”
 
@@ -5357,7 +5357,7 @@ Sulaco with the noise of his dissipations, and gambled heavily at the
 club. The two youngest boys, with yellow Ribierist cockades in their
 caps, sat on the front seat. She, too, affected not to see the Señor
 Decoud talking publicly with Antonia in defiance of every convention.
-And he not even her novio as far as the world knew! Though, even in that
+And he not even her _novio_ as far as the world knew! Though, even in that
 case, it would have been scandal enough. But the dignified old lady,
 respected and admired by the first families, would have been still more
 shocked if she could have heard the words they were exchanging.
@@ -5384,7 +5384,7 @@ She interrupted him. “You do me too much honour.”
 “At any rate,” he said, changing suddenly to a tone of bitter levity,
 “you would have sent me to stab him without compunction.”
 
-“_Ah, par exemple!_” she murmured in a shocked tone.
+“Ah, _par exemple!_” she murmured in a shocked tone.
 
 “Well,” he argued, mockingly, “you do keep me here writing deadly
 nonsense. Deadly to me! It has already killed my self-respect. And you
@@ -5623,7 +5623,7 @@ saw the great function from the windows of the Porvenir. He is amazing,
 your uncle, the last of the Corbelans. He glittered exceedingly in his
 vestments with a great crimson velvet cross down his back. And all the
 time our saviour Barrios sat in the Amarilla Club drinking punch at
-an open window. Esprit fort—our Barrios. I expected every moment your
+an open window. _Esprit fort_—our Barrios. I expected every moment your
 uncle to launch an excommunication there and then at the black eye-patch
 in the window across the Plaza. But not at all. Ultimately the troops
 marched off. Later Barrios came down with some of the officers, and
@@ -5964,12 +5964,12 @@ respect, and Don José Avellanos stopped the rocking of his chair. But
 the good-natured First Official made a deprecatory gesture, waved his
 hand to Charles Gould, and went out discreetly.
 
-In the comparative peace of the room the screaming “Monsieur
-l'Administrateur” of the frail, hairy Frenchman seemed to acquire a
+In the comparative peace of the room the screaming “_Monsieur
+l'Administrateur_” of the frail, hairy Frenchman seemed to acquire a
 preternatural shrillness. The explorer of the Capitalist syndicate was
 still enthusiastic. “Ten million dollars’ worth of copper practically in
-sight, Monsieur l'Administrateur. Ten millions in sight! And a railway
-coming—a railway! They will never believe my report. C'est trop beau.”
+sight, _Monsieur l'Administrateur_. Ten millions in sight! And a railway
+coming—a railway! They will never believe my report. _C'est trop beau_.”
 He fell a prey to a screaming ecstasy, in the midst of sagely nodding
 heads, before Charles Gould’s imperturbable calm.
 
@@ -5990,7 +5990,7 @@ Father Corbelan approached the rocking-chair of Don José Avellanos.
 
 “Come, brother,” he said, with kindly brusqueness and a touch of
 relieved impatience a man may feel at the end of a perfectly useless
-ceremony. “A la Casa! A la Casa! This has been all talk. Let us now go
+ceremony. “_A la Casa! A la Casa!_ This has been all talk. Let us now go
 and think and pray for guidance from Heaven.”
 
 He rolled his black eyes upwards. By the side of the frail
@@ -6712,8 +6712,8 @@ fortune. I suppose he looks upon his prestige as a sort of investment.”
 if she were repelling an undeserved aspersion. “Viola, the Garibaldino,
 with whom he has lived for some years, calls him the Incorruptible.”
 
-“Ah! he belongs to the group of your proteges out there towards the
-harbour, Mrs. Gould. Muy bien. And Captain Mitchell calls him wonderful.
+“Ah! he belongs to the group of your _proteges_ out there towards the
+harbour, Mrs. Gould. _Muy bien_. And Captain Mitchell calls him wonderful.
 I have heard no end of tales of his strength, his audacity, his
 fidelity. No end of fine things. H’m! incorruptible! It is indeed a name
 of honour for the Capataz of the Cargadores of Sulaco. Incorruptible!
@@ -6728,7 +6728,7 @@ to assume.
 señora. Let it come down, so that it may go north and return to us in
 the shape of credit.”
 
-Mrs. Gould glanced along the corredor towards the door of her husband’s
+Mrs. Gould glanced along the _corredor_ towards the door of her husband’s
 room. Decoud, watching her as if she had his fate in her hands, detected
 an almost imperceptible nod of assent. He bowed with a smile, and,
 putting his hand into the breast pocket of his coat, pulled out a fan of
@@ -6736,7 +6736,7 @@ light feathers set upon painted leaves of sandal-wood. “I had it in my
 pocket,” he murmured, triumphantly, “for a plausible pretext.” He bowed
 again. “Good-night, señora.”
 
-Mrs. Gould continued along the corredor away from her husband’s room.
+Mrs. Gould continued along the _corredor_ away from her husband’s room.
 The fate of the San Tome mine was lying heavy upon her heart. It was a
 long time now since she had begun to fear it. It had been an idea. She
 had watched it with misgivings turning into a fetish, and now the
@@ -6779,7 +6779,7 @@ into the world like evil flowers on a hotbed of rotten institutions; but
 the seed of this one has germinated in your brother’s brain, and that
 will be enough for your devoted assent. I am writing this to you by the
 light of a single candle, in a sort of inn, near the harbour, kept by
-an Italian called Viola, a protege of Mrs. Gould. The whole building,
+an Italian called Viola, a _protege_ of Mrs. Gould. The whole building,
 which, for all I know, may have been contrived by a Conquistador farmer
 of the pearl fishery three hundred years ago, is perfectly silent. So is
 the plain between the town and the harbour; silent, but not so dark as
@@ -6810,7 +6810,7 @@ to have a particular talent for being on the spot whenever there is
 something picturesque to be done.
 
 “He was with me at four o’clock in the morning at the offices of the
-Porvenir, where he had turned up so early in order to warn me of the
+_Porvenir_, where he had turned up so early in order to warn me of the
 coming trouble, and also to assure me that he would keep his Cargadores
 on the side of order. When the full daylight came we were looking
 together at the crowd on foot and on horseback, demonstrating on the
@@ -6870,7 +6870,7 @@ the cathedral, his hands between his knees, holding the bridle of his
 famous silver-grey mare. He had led his body of Cargadores splendidly
 all day long. He looked fatigued. I don’t know how I looked. Very
 dirty, I suppose. But I suppose I also looked pleased. From the time the
-fugitive President had been got off to the S. S. Minerva, the tide
+fugitive President had been got off to the S. S. _Minerva_, the tide
 of success had turned against the mob. They had been driven off the
 harbour, and out of the better streets of the town, into their own
 maze of ruins and tolderias. You must understand that this riot, whose
@@ -7176,7 +7176,7 @@ country where men will not help themselves.’
 was spoiled by the ridiculous disaster to his beard. I did not wait
 to make it out. He seemed to argue that Montero’s (he called him The
 General) intentions were probably not evil, though, he went on, ‘that
-distinguished man’ (only a week ago we used to call him a gran’ bestia)
+distinguished man’ (only a week ago we used to call him a _gran’ bestia_)
 ‘was perhaps mistaken as to the true means.’ As you may imagine,
 I didn’t stay to hear the rest. I know the intentions of Montero’s
 brother, Pedrito, the guerrillero, whom I exposed in Paris, some years
@@ -7381,7 +7381,7 @@ that the garrison, after shooting some of their officers, had taken
 possession of a Government steamer laid up in the harbour. It is really
 a heavy blow for me. I thought I could depend on every man in this
 province. It was a mistake. It was a Monterist Revolution in Esmeralda,
-just such as was attempted in Sulaco, only that that one came off. The
+just such as was attempted in Sulaco, only that _that_ one came off. The
 telegraphist was signalling to Bernhardt all the time, and his last
 transmitted words were, ‘They are bursting in the door, and taking
 possession of the cable office. You are cut off. Can do no more.’
@@ -7526,7 +7526,7 @@ with more pride than sentiment. I am glad I have made friends with him.
 As a companion he acquires more importance than he ever had as a sort of
 minor genius in his way—as an original Italian sailor whom I allowed
 to come in in the small hours and talk familiarly to the editor of the
-Porvenir while the paper was going through the press. And it is curious
+_Porvenir_ while the paper was going through the press. And it is curious
 to have met a man for whom the value of life seems to consist in
 personal prestige.
 
@@ -7544,7 +7544,7 @@ house buried in the black night, with this dying woman, the two children
 crouching without a sound, and that old man whom I can hear through the
 thickness of the wall passing up and down with a light rubbing noise no
 louder than a mouse. And I, the only other with them, don’t really know
-whether to count myself with the living or with the dead. ‘Quien sabe?’
+whether to count myself with the living or with the dead. ‘_Quien sabe?_’
 as the people here are prone to say in answer to every question. But no!
 feeling for you is certainly not dead, and the whole thing, the house,
 the dark night, the silent children in this dim room, my very presence
@@ -7830,7 +7830,7 @@ mantel of the fireplace, where the pot of water was still boiling
 violently, old Giorgio held his chin in his hand, one foot advanced, as
 if arrested by a sudden thought.
 
-“Adios, viejo,” said Nostromo, feeling the handle of his revolver in the
+“_Adios, viejo_,” said Nostromo, feeling the handle of his revolver in the
 belt and loosening his knife in its sheath. He picked up a blue poncho
 lined with red from the table, and put it over his head. “Adios, look
 after the things in my sleeping-room, and if you hear from me no more,
@@ -7966,7 +7966,7 @@ circumambient darkness in which land, sea, sky, the mountains, and the
 rocks were as if they had not been.
 
 Nostromo’s voice was speaking, though he, at the tiller, was also as
-if he were not. “Have you been asleep, Don Martin? Caramba! If it were
+if he were not. “Have you been asleep, Don Martin? _Caramba_! If it were
 possible I would think that I, too, have dozed off. I have a strange
 notion somehow of having dreamt that there was a sound of blubbering,
 a sound a sorrowing man could make, somewhere near this boat. Something
@@ -8095,7 +8095,7 @@ is what you mean. You will find no other sort of rest, I can promise
 you, since you let yourself be bound to this treasure whose loss would
 make no poor man poorer. No, señor; there is no rest till we find a
 north-bound steamer, or else some ship finds us drifting about stretched
-out dead upon the Englishman’s silver. Or rather—no; por Dios! I shall
+out dead upon the Englishman’s silver. Or rather—no; _por Dios!_ I shall
 cut down the gunwale with the axe right to the water’s edge before
 thirst and hunger rob me of my strength. By all the saints and devils
 I shall let the sea have the treasure rather than give it up to any
@@ -8267,7 +8267,7 @@ instinct, keeping away from every light and from every sound of voices.
 His idea was to throw himself at the feet of Captain Mitchell and
 beg for shelter in the Company’s offices. It was all dark there as
 he approached on his hands and knees, but suddenly someone on guard
-challenged loudly, “Quien vive?” There were more dead men lying about,
+challenged loudly, “_Quien vive?_” There were more dead men lying about,
 and he flattened himself down at once by the side of a cold corpse. He
 heard a voice saying, “Here is one of those wounded rascals crawling
 about. Shall I go and finish him?” And another voice objected that it
@@ -8475,7 +8475,7 @@ glass. Next moment he heard Nostromo’s quiet breathing by his side.
 “You had better not move at all from where you are, Don Martin,” advised
 the Capataz, earnestly. “You might stumble or displace something which
 would make a noise. The sweeps and the punting poles are lying about.
-Move not for your life. Por Dios, Don Martin,” he went on in a keen but
+Move not for your life. _Por Dios_, Don Martin,” he went on in a keen but
 friendly whisper, “I am so desperate that if I didn’t know your worship
 to be a man of courage, capable of standing stock still whatever
 happens, I would drive my knife into your heart.”
@@ -8536,7 +8536,7 @@ for not having visited the lighter carefully before leaving the wharf.
 He reproached himself for not having stabbed and flung Hirsch overboard
 at the very moment of discovery without even looking at his face. That
 would have been consistent with the desperate character of the affair.
-Whatever happened, Sotillo was already baffled. Even if that wretch, now
+Whatever happened, Sotillo _was_ already baffled. Even if that wretch, now
 as silent as death, did anything to betray the nearness of the lighter,
 Sotillo—if Sotillo it was in command of the troops on board—would be
 still baffled of his plunder.
@@ -8771,7 +8771,7 @@ tearing your hair from despair at my acuteness. Am I a child to believe
 that a light in that brass box can show you where the harbour is? I am
 an old soldier, I am. I can smell a traitor a league off. You wanted
 that gleam to betray our approach to your friend the Englishman. A thing
-like that show you the way! What a miserable lie! Que picardia! You
+like that show you the way! What a miserable lie! _Que picardia!_ You
 Sulaco people are all in the pay of those foreigners. You deserve to
 be run through the body with my sword.” Other officers, crowding round,
 tried to calm his indignation, repeating persuasively, “No, no! This is
@@ -8916,7 +8916,7 @@ they all repeated round their chief, “Impossible! impossible!” with the
 exception of the old major, who triumphed gloomily.
 
 “I told you; I told you,” he mumbled. “I could smell some treachery,
-some diableria a league off.”
+some _diableria_ a league off.”
 
 Meantime, the steamer had kept on her way towards Sulaco, where only the
 truth of that matter could be ascertained. Decoud and Nostromo heard the
@@ -9222,7 +9222,7 @@ CHAPTER ONE
 
 Directly the cargo boat had slipped away from the wharf and got lost
 in the darkness of the harbour the Europeans of Sulaco separated, to
-prepare for the coming of the Monterist regime, which was approaching
+prepare for the coming of the Monterist _regime_, which was approaching
 Sulaco from the mountains, as well as from the sea.
 
 This bit of manual work in loading the silver was their last concerted
@@ -9814,7 +9814,7 @@ the car, suddenly impelled by many hands, flew away from him along the
 rails, and before he knew what had happened he found himself surrounded
 and seized by his arms and the collar of his coat.
 
-“We have caught a man hiding here, mi teniente!” cried one of his
+“We have caught a man hiding here, _mi teniente!_” cried one of his
 captors.
 
 “Hold him on one side till the rearguard comes along,” answered the
@@ -9861,7 +9861,7 @@ cowering wild glances had filled them first with amazement, then with
 a doubt of his genuineness, as men are wont to suspect the sincerity of
 every great passion. His Spanish, too, became so mixed up with German
 that the better half of his statements remained incomprehensible. He
-tried to propitiate them by calling them hochwohlgeboren herren, which
+tried to propitiate them by calling them _hochwohlgeboren herren_, which
 in itself sounded suspicious. When admonished sternly not to trifle he
 repeated his entreaties and protestations of loyalty and innocence again
 in German, obstinately, because he was not aware in what language he was
@@ -10062,7 +10062,7 @@ got over the first shock of the abominable treatment he was cool and
 collected enough. The immense contempt he felt for Sotillo steadied him,
 and he said oracularly, “No doubt it is well concealed by this time.”
 
-Sotillo, too, had time to cool down. “Muy bien, Mitchell,” he said in a
+Sotillo, too, had time to cool down. “_Muy bien_, Mitchell,” he said in a
 cold and threatening manner. “But can you produce the Government receipt
 for the royalty and the Custom House permit of embarkation, hey? Can
 you? No. Then the silver has been removed illegally, and the guilty
@@ -10095,7 +10095,7 @@ chorus of derisive laughter. “He demands his watch!” . . . He ran up
 again to Captain Mitchell, for the desire to relieve his feelings by
 inflicting blows and pain upon this Englishman was very strong within
 him. “Your watch! You are a prisoner in war time, Mitchell! In war time!
-You have no rights and no property! Caramba! The very breath in your
+You have no rights and no property! _Caramba!_ The very breath in your
 body belongs to me. Remember that.”
 
 “Bosh!” said Captain Mitchell, concealing a disagreeable impression.
@@ -10345,7 +10345,7 @@ only but a little way.
 
 “I mentioned,” the doctor said, “in a sort of casual way, that treasure
 is generally buried in the earth rather than set afloat upon the sea.
-At this my Sotillo slapped his forehead. ‘Por Dios, yes,’ he said; ‘they
+At this my Sotillo slapped his forehead. ‘_Por Dios_, yes,’ he said; ‘they
 must have buried it on the shores of this harbour somewhere before they
 sailed out.'"
 
@@ -10660,7 +10660,7 @@ windows with rifles and carbines to guard the end of the street in
 case of an offensive return of the populace shouted their opinions and
 arguments over their shoulders. As dusk fell Don Juste Lopez, inviting
 those caballeros who were of his way of thinking to follow him, withdrew
-into the corredor, where at a little table in the light of two
+into the _corredor_, where at a little table in the light of two
 candles he busied himself in composing an address, or rather a solemn
 declaration to be presented to Pedrito Montero by a deputation of such
 members of Assembly as had elected to remain in town. His idea was
@@ -10705,7 +10705,7 @@ shoulder.
 
 “Drive carefully,” cried Mrs. Gould in a tremulous voice.
 
-“Si, carefully; si nina,” he mumbled, chewing his lips, his round
+“_Si_, carefully; _si nina,_” he mumbled, chewing his lips, his round
 leathery cheeks quivering. And the landau rolled slowly out of the
 light.
 
@@ -10810,7 +10810,7 @@ rough branch for a stick in her hand, staggered against the front wheel.
 Two young girls, frightened and silent, were clinging to her arms.
 Charles Gould knew her very well.
 
-“Misericordia! We are getting terribly bruised in this crowd!” she
+“_Misericordia!_ We are getting terribly bruised in this crowd!” she
 exclaimed, smiling up courageously to him. “We have started on foot. All
 our servants ran away yesterday to join the democrats. We are going to
 put ourselves under the protection of Father Corbelan, of your sainted
@@ -10853,7 +10853,7 @@ need ask no man for anything; but soldiers must have their pay to live
 honestly when the wars are over. It is believed that your soul is so
 just that a prayer from you would cure the sickness of every beast, like
 the orison of the upright judge. Let me have some words from your lips
-that would act like a charm upon the doubts of our partida, where all
+that would act like a charm upon the doubts of our _partida_, where all
 are men.”
 
 “Do you hear what he says?” Charles Gould said in English to Antonia.
@@ -10901,7 +10901,7 @@ women, children, and loaded donkeys. Only a few scattered knots of
 revolutionists stood in the vast space, all looking one way from under
 their slouched hats for some sign of news from Rincon. The largest of
 those groups turned about like one man as Charles Gould passed, and
-shouted, “Viva la libertad!” after him in a menacing tone.
+shouted, “_Viva la libertad!_” after him in a menacing tone.
 
 Charles Gould rode on, and turned into the archway of his house. In the
 patio littered with straw, a practicante, one of Dr. Monygham’s native
@@ -10936,7 +10936,7 @@ appeared uglier than ever in the light of failure. His taciturnity,
 assumed with a purpose, had prevented him from tampering openly with
 his thoughts; but the Gould Concession had insidiously corrupted his
 judgment. He might have known, he said to himself, leaning over the
-balustrade of the corredor, that Ribierism could never come to anything.
+balustrade of the _corredor_, that Ribierism could never come to anything.
 The mine had corrupted his judgment by making him sick of bribing and
 intriguing merely to have his work left alone from day to day. Like
 his father, he did not like to be robbed. It exasperated him. He had
@@ -10994,7 +10994,7 @@ at that time of serious pre-occupation Charles Gould could not help
 noting the revealed ineptitude in the aspect of the man. His companions
 looked crestfallen and sleepy. One kept on passing the tip of his tongue
 over his parched lips; the other’s eyes strayed dully over the tiled
-floor of the corredor, while Don Juste, standing a little in advance,
+floor of the _corredor_, while Don Juste, standing a little in advance,
 harangued the Señor Administrador of the San Tome mine. It was his firm
 opinion that forms had to be observed. A new governor is always visited
 by deputations from the Cabildo, which is the Municipal Council,
@@ -11067,7 +11067,7 @@ moving off.
 Directing his course upstairs towards the door of Charles Gould’s room,
 the doctor at the last moment hesitated; then, turning away from the
 handle with a shrug of his uneven shoulders, slunk off hastily along the
-corredor in search of Mrs. Gould’s camerista.
+_corredor_ in search of Mrs. Gould’s camerista.
 
 Leonarda told him that the señora had not risen yet. The señora had
 given into her charge the girls belonging to that Italian posadero. She,
@@ -11295,7 +11295,7 @@ own shadow seen through the flood of light.
 
 A voice said at the door, “What of Decoud?”
 
-It was Charles Gould. They had not heard him coming along the corredor.
+It was Charles Gould. They had not heard him coming along the _corredor_.
 His glance just glided over his wife and struck full at the doctor.
 
 “You have brought some news, doctor?”
@@ -11465,7 +11465,7 @@ speak.
 other servants, terrified at what they took for the signal of a general
 massacre, had rushed upstairs, tumbling over each other, men and women,
 the obscure and generally invisible population of the ground floor on
-the four sides of the patio. The women, screaming “Misericordia!” ran
+the four sides of the patio. The women, screaming “_Misericordia!_” ran
 right into the room, and, falling on their knees against the walls,
 began to cross themselves convulsively. The staring heads of men blocked
 the doorway in an instant—mozos from the stable, gardeners, nondescript
@@ -11506,7 +11506,7 @@ middle of the street streamed, like a torrent of rubbish, a mass of
 straw hats, ponchos, gun-barrels, with an enormous green and yellow flag
 flapping in their midst, in a cloud of dust, to the furious beating of
 drums. The spectators recoiled against the walls of the houses shouting
-their Vivas! Behind the rabble could be seen the lances of the cavalry,
+their _Vivas!_ Behind the rabble could be seen the lances of the cavalry,
 the “army” of Pedro Montero. He advanced between Señores Fuentes and
 Gamacho at the head of his llaneros, who had accomplished the feat of
 crossing the Paramos of the Higuerota in a snow-storm. They rode four
@@ -11578,7 +11578,7 @@ his journeys in the interior of the country. In General Montero’s
 case it enabled him to rise from the ranks. Pedrito, the younger,
 incorrigibly lazy and slovenly, had drifted aimlessly from one coast
 town to another, hanging about counting-houses, attaching himself
-to strangers as a sort of valet-de-place, picking up an easy and
+to strangers as a sort of _valet-de-place_, picking up an easy and
 disreputable living. His ability to read did nothing for him but fill
 his head with absurd visions. His actions were usually determined by
 motives so improbable in themselves as to escape the penetration of a
@@ -11630,7 +11630,7 @@ that a Montero had only to appear to be master of the situation. This
 illusion had betrayed him into a rashness of which he was becoming
 aware. As he rode at the head of his llaneros he regretted that there
 were so few of them. The enthusiasm of the populace reassured him. They
-yelled “Viva Montero! Viva Pedrito!” In order to make them still more
+yelled “_Viva_ Montero! _Viva_ Pedrito!” In order to make them still more
 enthusiastic, and from the natural pleasure he had in dissembling, he
 dropped the reins on his horse’s neck, and with a tremendous effect of
 familiarity and confidence slipped his hands under the arms of Señores
@@ -11662,13 +11662,13 @@ a hand laid flat upon the heart, the silver gleam of rolling eyes,
 the sweeping, pointing, embracing gestures, a hand laid familiarly
 on Gamacho’s shoulder; a hand waved formally towards the little
 black-coated person of Señor Fuentes, advocate and politician and a true
-friend of the people. The vivas of those nearest to the orator bursting
+friend of the people. The _vivas_ of those nearest to the orator bursting
 out suddenly propagated themselves irregularly to the confines of the
 crowd, like flames running over dry grass, and expired in the opening of
 the streets. In the intervals, over the swarming Plaza brooded a heavy
 silence, in which the mouth of the orator went on opening and shutting,
 and detached phrases—“The happiness of the people,” “Sons of the
-country,” “The entire world, el mundo entiero”—reached even the packed
+country,” “The entire world, _el mundo entiero_”—reached even the packed
 steps of the cathedral with a feeble clear ring, thin as the buzzing
 of a mosquito. But the orator struck his breast; he seemed to prance
 between his two supporters. It was the supreme effort of his peroration.
@@ -11729,7 +11729,7 @@ head slightly to the left, letting a thin, bluish jet of smoke escape
 through his pursed lips. He had understood.
 
 His Excellency was exasperated at the devastation. Not a single chair,
-table, sofa, etagere or console had been left in the state rooms of the
+table, sofa, _etagere_ or console had been left in the state rooms of the
 Intendencia. His Excellency, though twitching all over with rage, was
 restrained from bursting into violence by a sense of his remoteness and
 isolation. His heroic brother was very far away. Meantime, how was he
@@ -11831,7 +11831,7 @@ it carefully behind his ears, he opened the envelope, holding it up at
 about a foot in front of his eyes. The paper he pulled out contained
 some three lines of writing. He looked at them for a long time. His grey
 moustache moved slightly up and down, and the wrinkles, radiating at the
-corners of his eyes, ran together. He nodded serenely. “Bueno,” he said.
+corners of his eyes, ran together. He nodded serenely. “_Bueno_,” he said.
 “There is no answer.”
 
 Then, in his quiet, kindly way, he engaged in a cautious conversation
@@ -12373,7 +12373,7 @@ thick timber on the plain with a gateway in front, and the cupolas,
 towers, and miradors rising above the trees, all dark, as if surrendered
 already to the night. The thought that it was no longer open to him to
 ride through the streets, recognized by everyone, great and little, as
-he used to do every evening on his way to play monte in the posada of
+he used to do every evening on his way to play _monte_ in the posada of
 the Mexican Domingo; or to sit in the place of honour, listening to
 songs and looking at dances, made it appear to him as a town that had no
 existence.
@@ -12396,10 +12396,10 @@ enveloping the whole gulf, the islets, and the lover of Antonia alone
 with the treasure on the Great Isabel. The Capataz, turning his back on
 these things invisible and existing, sat down and took his face between
 his fists. He felt the pinch of poverty for the first time in his life.
-To find himself without money after a run of bad luck at monte in the
+To find himself without money after a run of bad luck at _monte_ in the
 low, smoky room of Domingo’s posada, where the fraternity of Cargadores
 gambled, sang, and danced of an evening; to remain with empty pockets
-after a burst of public generosity to some peyne d'oro girl or other
+after a burst of public generosity to some _peyne d’oro_ girl or other
 (for whom he did not care), had none of the humiliation of destitution.
 He remained rich in glory and reputation. But since it was no longer
 possible for him to parade the streets of the town, and be hailed with
@@ -12449,7 +12449,7 @@ Blancos against the rest of the people; he had had interviews with Don
 José; he had been made use of by Father Corbelan for negotiating with
 Hernandez; it was known that Don Martin Decoud had admitted him to
 a sort of intimacy, so that he had been free of the offices of the
-Porvenir. All these things had flattered him in the usual way. What
+_Porvenir_. All these things had flattered him in the usual way. What
 did he care about their politics? Nothing at all. And at the end of it
 all—Nostromo here and Nostromo there—where is Nostromo? Nostromo can
 do this and that—work all day and ride all night—behold! he found
@@ -12826,7 +12826,7 @@ least about himself. They found him clinging to their anchor. He must
 have caught at it just as the lighter went to the bottom.”
 
 “Went to the bottom?” repeated Nostromo, slowly. “Sotillo believes that?
-Bueno!”
+_Bueno!_”
 
 The doctor, a little impatiently, was unable to imagine what else could
 anybody believe. Yes, Sotillo believed that the lighter was sunk, and
@@ -12863,7 +12863,7 @@ their eyes remained directed towards an upright shape nearly lost in the
 obscurity of the inner part of the room, that with projecting head and
 shoulders, in ghastly immobility, seemed intent on catching every word.
 
-“Muy bien!” Nostromo muttered at last. “So be it. Teresa was right. It
+“_Muy bien!_” Nostromo muttered at last. “So be it. Teresa was right. It
 is my own affair.”
 
 “Teresa is dead,” remarked the doctor, absently, while his mind
@@ -13027,7 +13027,7 @@ disregarded, forgotten, like a terrible example of neglect.
 
 “Was it for an unconsidered and foolish whim that they came to me,
 then?” he interrupted suddenly. “Had I not done enough for them to be
-of some account, por Dios? Is it that the hombres finos—the
+of some account, _por Dios?_ Is it that the _hombres finos_—the
 gentlemen—need not think as long as there is a man of the people ready
 to risk his body and soul? Or, perhaps, we have no souls—like dogs?”
 
@@ -13313,15 +13313,15 @@ pronouncing deliberately a panegyric upon Sotillo. He ascribed to him
 with leisurely emphasis every virtue under heaven, summing it all up in
 an absurd colloquialism current amongst the lower class of Occidentals
 (especially about Esmeralda). “And,” he concluded, with a sudden rise in
-the voice, “a man of many teeth—‘hombre de muchos dientes.’ Si, señor.
+the voice, “a man of many teeth—‘_hombre de muchos dientes_.’ _Si, señor._
 As to us,” he pursued, portentous and impressive, “your worship is
 beholding the finest body of officers in the Republic, men unequalled
-for valour and sagacity, ‘y hombres de muchos dientes.'"
+for valour and sagacity, ‘_y hombres de muchos dientes._’”
 
 “What? All of them?” inquired the disreputable envoy of Señor Fuentes,
 with a faint, derisive smile.
 
-“Todos. Si, señor,” the major affirmed, gravely, with conviction. “Men
+“_Todos. Si, señor,_” the major affirmed, gravely, with conviction. “Men
 of many teeth.”
 
 The other wheeled his horse to face the portal resembling the high gate
@@ -13474,7 +13474,7 @@ dismay, as if aspersed by a jet of deadly venom. Quick as thought he
 snatched up his revolver, and fired twice. The report and the concussion
 of the shots seemed to throw him at once from ungovernable rage into
 idiotic stupor. He stood with drooping jaw and stony eyes. What had he
-done, Sangre de Dios! What had he done? He was basely appalled at his
+done, _Sangre de Dios!_ What had he done? He was basely appalled at his
 impulsive act, sealing for ever these lips from which so much was to
 be extorted. What could he say? How could he explain? Ideas of headlong
 flight somewhere, anywhere, passed through his mind; even the craven and
@@ -13501,7 +13501,7 @@ thought him very capable of such an act. They were disposed to believe
 his flattering tale. There is no credulity so eager and blind as the
 credulity of covetousness, which, in its universal extent, measures the
 moral misery and the intellectual destitution of mankind. Ah! he had
-confessed everything, this fractious Jew, this bribon. Good! Then he
+confessed everything, this fractious Jew, this _bribon_. Good! Then he
 was no longer wanted. A sudden dense guffaw was heard from the senior
 captain—a big-headed man, with little round eyes and monstrously fat
 cheeks which never moved. The old major, tall and fantastically ragged
@@ -13605,7 +13605,7 @@ the sense of his abasement, hardened his heart in sadness and scorn.
 you is to kill me on the spot. I would defend myself. But you may just
 as well know I am going about unarmed.”
 
-“Por Dios!” said the Capataz, passionately. “You fine people are all
+“_Por Dios!_” said the Capataz, passionately. “You fine people are all
 alike. All dangerous. All betrayers of the poor who are your dogs.”
 
 “You do not understand,” began the doctor, slowly.
@@ -13793,7 +13793,7 @@ The Isabel! What stupidity! What miserable invention! Ah! you are all
 alike, you fine men of intelligence. All you are fit for is to betray
 men of the people into undertaking deadly risks for objects that you are
 not even sure about. If it comes off you get the benefit. If not, then
-it does not matter. He is only a dog. Ah! Madre de Dios, I would--” He
+it does not matter. He is only a dog. Ah! _Madre de Dios_, I would--” He
 shook his fists above his head.
 
 The doctor was overwhelmed at first by this fierce, hissing vehemence.
@@ -14027,10 +14027,10 @@ was there. And what could he be told? That doctor would worm it all out
 of him as if he were a child.
 
 On the threshold he called out “Giorgio!” in an undertone. Nobody
-answered. He stepped in. “Ola! viejo! Are you there? . . .” In the
+answered. He stepped in. “_Ola! viejo!_ Are you there? . . .” In the
 impenetrable darkness his head swam with the illusion that the obscurity
 of the kitchen was as vast as the Placid Gulf, and that the floor dipped
-forward like a sinking lighter. “Ola! viejo!” he repeated, falteringly,
+forward like a sinking lighter. “_Ola! viejo!_” he repeated, falteringly,
 swaying where he stood. His hand, extended to steady himself, fell
 upon the table. Moving a step forward, he shifted it, and felt a box
 of matches under his fingers. He fancied he had heard a quiet sigh. He
@@ -14058,7 +14058,7 @@ A strong chest voice asked in the dark—
 
 “Is that you I hear, Giovann’ Battista?”
 
-“Si, viejo. Steady. Not so loud.”
+“_Si, viejo_. Steady. Not so loud.”
 
 After his release by Sotillo, Giorgio Viola, attended to the very door
 by the good-natured engineer-in-chief, had reentered his house, which
@@ -14114,7 +14114,7 @@ dead wife with its obscurity and silence that seemed invincible till the
 Capataz de Cargadores, returning from the dead, put them to flight with
 the splutter and flare of a match.
 
-“Si, viejo. It is me. Wait.”
+“_Si, viejo_. It is me. Wait.”
 
 Nostromo, after barricading the door and closing the shutters carefully,
 groped upon a shelf for a candle, and lit it.
@@ -14168,7 +14168,7 @@ Henceforth there would be no enterprise in which he would not fail. The
 spell was working already. Death itself would elude him now. . . . He
 said violently—
 
-“Come, viejo! Get me something to eat. I am hungry! Sangre de Dios! The
+“Come, viejo! Get me something to eat. I am hungry! _Sangre de Dios!_ The
 emptiness of my belly makes me lightheaded.”
 
 With his chin dropped again upon his bare breast above his folded arms,
@@ -14205,7 +14205,7 @@ benefactress. . . ."
 “I am old,” muttered Giorgio Viola. “An Englishwoman was allowed to give
 a bed to Garibaldi lying wounded in prison. The greatest man that ever
 lived. A man of the people, too—a sailor. I may let another keep a
-roof over my head. Si . . . I am old. I may let her. Life lasts too long
+roof over my head. _Si_ . . . I am old. I may let her. Life lasts too long
 sometimes.”
 
 “And she herself may not have a roof over her head before many days are
@@ -14406,7 +14406,7 @@ Directly outside the cathedral on the very top of the noble flight
 of steps, his voice rose pompously, his arm found again its sweeping
 gesture.
 
-“Porvenir, over there on that first floor, above those French
+“_Porvenir_, over there on that first floor, above those French
 plate-glass shop-fronts; our biggest daily. Conservative, or, rather, I
 should say, Parliamentary. We have the Parliamentary party here of which
 the actual Chief of the State, Don Juste Lopez, is the head; a very
@@ -14435,7 +14435,7 @@ satisfaction, and tender over the table a case full of thick cigars.
 
 “Try a weed with your coffee. Local tobacco. The black coffee you get at
 the Amarilla, sir, you don’t meet anywhere in the world. We get the bean
-from a famous cafeteria in the foot-hills, whose owner sends three sacks
+from a famous _cafeteria_ in the foot-hills, whose owner sends three sacks
 every year as a present to his fellow members in remembrance of the
 fight against Gamacho’s Nationals, carried on from these very windows by
 the caballeros. He was in town at the time, and took part, sir, to the
@@ -14443,7 +14443,7 @@ bitter end. It arrives on three mules—not in the common way, by rail;
 no fear!—right into the patio, escorted by mounted peons, in charge of
 the Mayoral of his estate, who walks upstairs, booted and spurred, and
 delivers it to our committee formally with the words, ‘For the sake of
-those fallen on the third of May.’ We call it Tres de Mayo coffee. Taste
+those fallen on the third of May.’ We call it _Tres de Mayo_ coffee. Taste
 it.”
 
 Captain Mitchell, with an expression as though making ready to hear a
@@ -14452,8 +14452,8 @@ would be sipped to the bottom during a restful silence in a cloud of
 cigar smoke.
 
 “Look at this man in black just going out,” he would begin, leaning
-forward hastily. “This is the famous Hernandez, Minister of War. The
-Times’ special correspondent, who wrote that striking series of letters
+forward hastily. “This is the famous Hernandez, Minister of War. _The
+Times’_ special correspondent, who wrote that striking series of letters
 calling the Occidental Republic the ‘Treasure House of the World,’ gave
 a whole article to him and the force he has organized—the renowned
 Carabineers of the Campo.”
@@ -14558,7 +14558,7 @@ sailor for a foreman of our wharf simply on the strength of his looks.
 And that’s a fact. You can’t get over it, sir. On the seventeenth of
 May, just twelve days after I saw the man from the Casa Viola get on the
 engine, and wondered what it meant, Barrios’s transports were entering
-this harbour, and the ‘Treasure House of the World,’ as The Times man
+this harbour, and the ‘Treasure House of the World,’ as _The Times_ man
 calls Sulaco in his book, was saved intact for civilization—for a
 great future, sir. Pedrito, with Hernandez on the west, and the San Tome
 miners pressing on the land gate, was not able to oppose the landing. He
@@ -14649,13 +14649,13 @@ quite.
 if by then. Come in for a brandy-and-soda and one more cigar.”
 
 And in the superintendent’s private room the privileged passenger by the
-Ceres, or Juno, or Pallas, stunned and as it were annihilated mentally
+Ceres, or _Juno_, or Pallas, stunned and as it were annihilated mentally
 by a sudden surfeit of sights, sounds, names, facts, and complicated
 information imperfectly apprehended, would listen like a tired child
 to a fairy tale; would hear a voice, familiar and surprising in its
 pompousness, tell him, as if from another world, how there was “in this
 very harbour” an international naval demonstration, which put an end to
-the Costaguana-Sulaco War. How the United States cruiser, Powhattan, was
+the Costaguana-Sulaco War. How the United States cruiser, _Powhattan_, was
 the first to salute the Occidental flag—white, with a wreath of green
 laurel in the middle encircling a yellow amarilla flower. Would hear how
 General Montero, in less than a month after proclaiming himself Emperor
@@ -14705,7 +14705,7 @@ losing a lighter?’
 
 “I begged him not to think any more about the silver, and he smiled. A
 smile that went to my heart, sir. ‘It was no mistake,’ I told him. ‘It
-was a fatality. A thing that could not be helped.’ ‘Si, si!” he said,
+was a fatality. A thing that could not be helped.’ ‘_Si, si!_” he said,
 and turned away. I thought it best to leave him alone for a bit to get
 over it. Sir, it took him years really, to get over it. I was present
 at his interview with Don Carlos. I must say that Gould is rather a cold
@@ -14769,10 +14769,10 @@ mile or so in the offing, like the finish of an ocean race, pressed on,
 all black and smoking on the western sky.
 
 “Mi General,” Nostromo’s voice rang out loud, but quiet, from behind a
-group of officers, “I should like to save that little boat. Por Dios, I
+group of officers, “I should like to save that little boat. _Por Dios_, I
 know her. She belongs to my Company.”
 
-“And, por Dios,” guffawed Barrios, in a noisy, good-humoured voice, “you
+“And, _por Dios_,” guffawed Barrios, in a noisy, good-humoured voice, “you
 belong to me. I am going to make you a captain of cavalry directly we
 get within sight of a horse again.”
 
@@ -14887,7 +14887,7 @@ with some intelligence. But Nostromo’s half-smile of approval changed
 into a scornful curl of the lip by the sight of the spade itself flung
 there in full view, as if in utter carelessness or sudden panic, giving
 away the whole thing. Ah! They were all alike in their folly, these
-hombres finos that invented laws and governments and barren tasks for
+_hombres finos_ that invented laws and governments and barren tasks for
 the people.
 
 The Capataz picked up the spade, and with the feel of the handle in his
@@ -15174,7 +15174,7 @@ establishment (except of the professional sort), he had been asked to
 take up his quarters in the Gould house. In the eleven months of their
 absence the familiar rooms, recalling at every glance the woman to
 whom he had given all his loyalty, had grown intolerable. As the day
-approached for the arrival of the mail boat Hermes (the latest addition
+approached for the arrival of the mail boat _Hermes_ (the latest addition
 to the O. S. N. Co.’s splendid fleet), the doctor hobbled about more
 vivaciously, snapped more sardonically at simple and gentle out of sheer
 nervousness.
@@ -15187,7 +15187,7 @@ drawn-in face positively venomous with the effort of self-control, and
 holding a pair of new gloves in his left hand, he drove to the harbour.
 
 His heart dilated within him so, when he saw the Goulds on the deck of
-the Hermes, that his greetings were reduced to a casual mutter. Driving
+the _Hermes_, that his greetings were reduced to a casual mutter. Driving
 back to town, all three were silent. And in the patio the doctor, in a
 more natural manner, said—
 
@@ -15258,12 +15258,12 @@ had taken part in it seemed to forget its memory and its lesson.
 “And yet,” struck in the doctor, “we who played our part in it had our
 reward. Don Pepe, though superannuated, still can sit a horse. Barrios
 is drinking himself to death in jovial company away somewhere on his
-fundacion beyond the Bolson de Tonoro. And the heroic Father Roman—I
+_fundacion_ beyond the Bolson de Tonoro. And the heroic Father Roman—I
 imagine the old padre blowing up systematically the San Tome mine,
 uttering a pious exclamation at every bang, and taking handfuls of
 snuff between the explosions—the heroic Padre Roman says that he is not
 afraid of the harm Holroyd’s missionaries can do to his flock, as long
-as he is alive.”
+as _he_ is alive.”
 
 Mrs. Gould shuddered a little at the allusion to the destruction that
 had come so near to the San Tome mine.
@@ -15328,7 +15328,7 @@ aside, pretending to be lost in profound meditation. A louder phrase of
 Antonia made him lift his head.
 
 “How can we abandon, groaning under oppression, those who have been
-our countrymen only a few years ago, who are our countrymen now?” Miss
+our countrymen only a few years ago, who _are_ our countrymen now?” Miss
 Avellanos was saying. “How can we remain blind, and deaf without pity to
 the cruel wrongs suffered by our brothers? There is a remedy.”
 
@@ -15584,7 +15584,7 @@ Mrs. Gould sat up, opening her eyes very wide.
 “What do you mean, Dr. Monygham? Do you mean to say that you suspect the
 younger sister?”
 
-“Quien sabe! Who can tell?” said the doctor, shrugging his shoulders
+“_Quien sabe!_ Who can tell?” said the doctor, shrugging his shoulders
 like a born Costaguanero. “Ramirez came up to me on the wharf. He
 reeled—he looked insane. He took his head into his hands. He had to
 talk to someone—simply had to. Of course for all his mad state he
@@ -16117,7 +16117,7 @@ remained fixed on nothing, as if indifferent and without thought.
 He had jumped up as if stung by a gad-fly, and stood before her mute
 with anger.
 
-“Misericordia Divina! You, too, Gian’ Battista! Poor wretch that I am!”
+“_Misericordia Divina!_ You, too, Gian’ Battista! Poor wretch that I am!”
 she lamented in ingenuous tones. “I told Linda, and she scolded—she
 scolded. Am I to live blind, dumb, and deaf in this world? And she told
 father, who took down his gun and cleaned it. Poor Ramirez! Then you
@@ -16135,7 +16135,7 @@ to the violence of his passion. She, in a voice that recalled to him the
 song of running water, the tinkling of a silver bell, continued—
 
 “And between you three you have brought me here into this captivity to
-the sky and water. Nothing else. Sky and water. Oh, Sanctissima Madre.
+the sky and water. Nothing else. Sky and water. Oh, _Sanctissima Madre_.
 My hair shall turn grey on this tedious island. I could hate you, Gian’
 Battista!”
 
@@ -16169,7 +16169,7 @@ glanced at her little feet.
 now she will understand better since you have told her you love her. She
 will not be so fierce.”
 
-“Chica!” said Nostromo, “I have not told her anything.”
+“_Chica!_” said Nostromo, “I have not told her anything.”
 
 “Then make haste. Come to-morrow. Come and tell her, so that I may have
 some peace from her scolding and—perhaps—who knows . . ."
@@ -16598,7 +16598,7 @@ their curtness that resembled disdain. One day she flung herself upon
 the chair in which her indolent sister was lying and impressed the mark
 of her teeth at the base of the whitest neck in Sulaco. Giselle cried
 out. But she had her share of the Viola heroism. Ready to faint with
-terror, she only said, in a lazy voice, “Madre de Dios! Are you going to
+terror, she only said, in a lazy voice, “_Madre de Dios!_ Are you going to
 eat me alive, Linda?” And this outburst passed off leaving no trace upon
 the situation. “She knows nothing. She cannot know any thing,” reflected
 Giselle. “Perhaps it is not true. It cannot be true,” Linda tried to
@@ -16625,7 +16625,7 @@ excitement. Ramirez was not in Sulaco. Nobody knew where he was. He was
 gone. His talk of what he would do meant nothing.
 
 “No,” the old man interrupted. “But son Gian’ Battista told me—quite
-of himself—that the cowardly esclavo was drinking and gambling with the
+of himself—that the cowardly _esclavo_ was drinking and gambling with the
 rascals of Zapiga, over there on the north side of the gulf. He may get
 some of the worst scoundrels of that scoundrelly town of negroes to help
 him in his attempt upon the little one. . . . But I am not so old. No!”
@@ -16644,7 +16644,7 @@ Then she rose and walked over to her.
 “Listen—you,” she said, roughly.
 
 The invincible candour of the gaze, raised up all violet and dew,
-excited her rage and admiration. She had beautiful eyes—the Chica—this
+excited her rage and admiration. She had beautiful eyes—the _Chica_—this
 vile thing of white flesh and black deception. She did not know whether
 she wanted to tear them out with shouts of vengeance or cover up their
 mysterious and shameless innocence with kisses of pity and love. And
@@ -16686,7 +16686,7 @@ filled with twilight and the sheen of the moon, with careful movements
 she lighted the lamp. Then her arms fell along her body.
 
 “And with our mother looking on,” she murmured. “My own sister—the
-Chica!”
+_Chica!_”
 
 The whole refracting apparatus, with its brass fittings and rings of
 prisms, glittered and sparkled like a domeshaped shrine of diamonds,
@@ -16794,7 +16794,7 @@ With a measured swish of her long train, flashing with jewels and the
 shimmer of silk, her delicate head bowed as if under the weight of a
 mass of fair hair, in which the silver threads were lost, the “first
 lady of Sulaco,” as Captain Mitchell used to describe her, moved along
-the lighted corredor, wealthy beyond great dreams of wealth, considered,
+the lighted _corredor_, wealthy beyond great dreams of wealth, considered,
 loved, respected, honoured, and as solitary as any human being had ever
 been, perhaps, on this earth.
 
@@ -16813,7 +16813,7 @@ a decked boat, coming from Zapiga, with four negroes in her, passing
 close to the Great Isabel, was hailed from the cliff by a woman’s
 voice—Linda’s, as a matter of fact—commanding them (it’s a moonlight
 night) to go round to the beach and take up a wounded man to the town.
-The patron (from whom I’ve heard all this), of course, did so at once.
+The _patron_ (from whom I’ve heard all this), of course, did so at once.
 He told me that when they got round to the low side of the Great Isabel,
 they found Linda Viola waiting for them. They followed her: she led them
 under a tree not far from the cottage. There they found Nostromo lying
