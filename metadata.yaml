@@ -1,0 +1,46 @@
+# -*- coding: utf-8-unix; -*-
+_repo: Nostromo--A-Tale-of-the-Seaboard_2021
+_version: 0.0.1
+covers:
+- attribution: Priscilla Parizeau, 2015
+  cover_type: original
+  image_path: cover.jpg
+  rights: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+  rights_url: https://creativecommons.org/licenses/by-nc/4.0/
+creator:
+  author:
+    agent_name: Conrad, Joseph
+    # The Project Gutenberg metadata appears to be taken from the
+    # Library of Congress where Conrad's name are given in the
+    # order below (as opposed to "Józef Teodor Konrad" as seen, for
+    # example, in the Wikipedia article).
+    # See: https://lccn.loc.gov/n79054067
+    aliases:
+    - Korzeniowski, Józef Konrad Teodor
+    - Korzeniowski, Jozef Konrad Teodor
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: https://en.wikipedia.org/wiki/Joseph_Conrad
+description: 'Wikipedia: https://en.wikipedia.org/wiki/Nostromo'
+gutenberg_bookshelf:
+- Best Books Ever Listings
+gutenberg_issued: '2004-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2021'
+language: en
+publication_date: 2015-08-01
+publisher: Project Gutenberg
+rights: CC BY-NC
+rights_url: http://creativecommons.org/licenses/by-nc/4.0/
+subjects:
+- !lcsh Sea Stories
+- !lcsh Political Fiction
+- !lcsh Sailors -- Fiction
+- !lcsh Revolutions -- Fiction
+- !lcsh Latin America -- Fiction
+- !lcc PS
+title: Nostromo: A Tale of the Seaboard
+url: http://www.gutenberg.org/ebooks/2021

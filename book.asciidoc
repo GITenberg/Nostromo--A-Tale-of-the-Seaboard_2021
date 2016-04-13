@@ -1,53 +1,19 @@
-Project Gutenberg’s Nostromo: A Tale of the Seaboard, by Joseph Conrad
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: Nostromo: A Tale of the Seaboard
-
-Author: Joseph Conrad
-
-Release Date: January 9, 2006 [EBook #2021]
-
-Language: English
-
-
-*** START OF THIS PROJECT GUTENBERG EBOOK NOSTROMO: A TALE OF THE SEABOARD ***
-
-
-
+= NOSTROMO: A TALE OF THE SEABOARD
+Joseph Conrad
+:doctype: book
+:toc:
 
 Produced by Judy Boss and David Widger
 
+[quote, SHAKESPEARE]
+____
+“So foul a sky clears not without a storm.”
+____
 
-
-
-
-NOSTROMO
-
-A TALE OF THE SEABOARD
-
-
-By Joseph Conrad
-
-
-
-
-“So foul a sky clears not without a storm.” --SHAKESPEARE
-
-
-
-
+[dedication]
 TO JOHN GALSWORTHY
 
-
-
-
-AUTHOR’S NOTE
-
+== AUTHOR’S NOTE
 
 “_Nostromo_” is the most anxiously meditated of the longer novels which
 belong to the period following upon the publication of the “Typhoon”
@@ -285,34 +251,13 @@ at the time that the moment the breath left the body of the Magnificent
 Capataz, the Man of the People, freed at last from the toils of love and
 wealth, there was nothing more for me to do in Sulaco.
 
+J.C.
 
-J. C.
+_October,_ 1917.
 
-October, 1917.
+== PART FIRST THE SILVER OF THE MINE
 
-
-
-
-CONTENTS
-
-PART FIRST   THE SILVER OF THE MINE
-
-PART SECOND  THE ISABELS
-
-PART THIRD   THE LIGHTHOUSE
-
-
-
-
-NOSTROMO
-
-
-
-
-PART FIRST THE SILVER OF THE MINE
-
-
-CHAPTER ONE
+=== CHAPTER ONE
 
 In the time of Spanish rule, and for many years afterwards, the town of
 Sulaco—the luxuriant beauty of the orange gardens bears witness to its
@@ -464,9 +409,7 @@ vast grove of orange trees—lies between the mountains and the plain,
 at some little distance from its harbour and out of the direct line of
 sight from the sea.
 
-
-
-CHAPTER TWO
+=== CHAPTER TWO
 
 The only sign of commercial activity within the harbour, visible from
 the beach of the Great Isabel, is the square blunt end of the wooden
@@ -656,9 +599,7 @@ safes in view they had neglected it at first, and afterwards found no
 leisure to stop. Nostromo, with his Cargadores, was pressing them too
 hard then.
 
-
-
-CHAPTER THREE
+=== CHAPTER THREE
 
 It might have been said that there he was only protecting his own. From
 the first he had been admitted to live in the intimacy of the family
@@ -838,9 +779,7 @@ of the house; the toe of a boot struck at the shutter again; a spur
 jingled at every blow, and an excited voice shouted, “Hola! hola, in
 there!”
 
-
-
-CHAPTER FOUR
+=== CHAPTER FOUR
 
 All the morning Nostromo had kept his eye from afar on the Casa Viola,
 even in the thick of the hottest scrimmage near the Custom House. “If
@@ -1193,9 +1132,7 @@ heard but the slight jingle of the spurs. His glass emptied, he would
 take a leisurely, scrutinizing look all round the room, go out, and ride
 away slowly, circling towards the town.
 
-
-
-CHAPTER FIVE
+=== CHAPTER FIVE
 
 In this way only was the power of the local authorities vindicated
 amongst the great body of strong-limbed foreigners who dug the earth,
@@ -1483,9 +1420,7 @@ habit of calling Nostromo. And indeed, taciturn and ready, he did take
 excellent care of his charge at the bad parts of the road, as Sir John
 himself acknowledged to Mrs. Gould afterwards.
 
-
-
-CHAPTER SIX
+=== CHAPTER SIX
 
 At that time Nostromo had been already long enough in the country
 to raise to the highest pitch Captain Mitchell’s opinion of the
@@ -2712,9 +2647,7 @@ him further than he meant to go; and with the roundabout logic of
 emotions, he felt that the worthiness of his life was bound up with
 success. There was no going back.
 
-
-
-CHAPTER SEVEN
+=== CHAPTER SEVEN
 
 Mrs. Gould was too intelligently sympathetic not to share that feeling.
 It made life exciting, and she was too much of a woman not to like
@@ -2967,9 +2900,7 @@ intimacy. His evenings he devoted to gambling and to calls in a spirit
 of generous festivity upon the _peyne d’oro_ girls in the more remote
 side-streets of the town. But he, too, was a discreet man.
 
-
-
-CHAPTER EIGHT
+=== CHAPTER EIGHT
 
 Those of us whom business or curiosity took to Sulaco in these years
 before the first advent of the railway can remember the steadying effect
@@ -4062,14 +3993,9 @@ fatality. A misfortune, pure and simple, sir. And that poor fellow of
 mine was right in it—right in the middle of it! A fatality, if ever
 there was one—and to my mind he has never been the same man since.”
 
+== PART SECOND THE ISABELS
 
-
-
-
-PART SECOND THE ISABELS
-
-
-CHAPTER ONE
+=== CHAPTER ONE
 
 Through good and evil report in the varying fortune of that struggle
 which Don José had characterized in the phrase, “the fate of national
@@ -4324,9 +4250,7 @@ shape under the eye of the administrator of the San Tomé mine. And Don
 José, the hereditary friend of the Gould family, could say: “Perhaps, my
 dear Carlos, I shall not have believed in vain.”
 
-
-
-CHAPTER TWO
+=== CHAPTER TWO
 
 After another armed struggle, decided by Montero’s victory of Rio Seco,
 had been added to the tale of civil wars, the “honest men,” as Don José
@@ -4514,9 +4438,7 @@ never marry—unless, indeed, she married a foreigner from Europe or
 North America, now that Sulaco seemed on the point of being invaded by
 all the world.
 
-
-
-CHAPTER THREE
+=== CHAPTER THREE
 
 When General Barrios stopped to address Mrs. Gould, Antonia raised
 negligently her hand holding an open fan, as if to shade from the sun
@@ -4768,9 +4690,7 @@ slippers, before the many doors of his establishment, greeted by a deep,
 side-long inclination of his body the Journalist of Sulaco going to and
 fro on the business of his august calling.
 
-
-
-CHAPTER FOUR
+=== CHAPTER FOUR
 
 Perhaps it was in the exercise of his calling that he had come to see
 the troops depart. The _Porvenir_ of the day after next would no doubt
@@ -5141,9 +5061,7 @@ had stopped, a series of hard, battering shocks, mingled with the
 clanking of chain-couplings, made a tumult of blows and shaken fetters
 under the vault of the gate.
 
-
-
-CHAPTER FIVE
+=== CHAPTER FIVE
 
 The Gould carriage was the first to return from the harbour to the empty
 town. On the ancient pavement, laid out in patterns, sunk into ruts and
@@ -6207,9 +6125,7 @@ The engineer’s appreciative laugh died away down the stairs, where the
 Madonna with the Child on her arm seemed to look after his shaking broad
 back from her shallow niche.
 
-
-
-CHAPTER SIX
+=== CHAPTER SIX
 
 A profound stillness reigned in the Casa Gould. The master of the house,
 walking along the corredor, opened the door of his room, and saw his
@@ -6752,9 +6668,7 @@ Below she heard the voice of Martin Decoud in the patio speaking loudly:
 
 “I have found Doña Antonia’s fan, Basilio. Look, here it is!”
 
-
-
-CHAPTER SEVEN
+=== CHAPTER SEVEN
 
 It was part of what Decoud would have called his sane materialism that
 he did not believe in the possibility of friendship between man and
@@ -8224,9 +8138,7 @@ merchant from Esmeralda. Nostromo, too, had recognized him. And they
 gazed at each other across the body, lying with its naked feet higher
 than its head, in an absurd pretence of sleep, faintness, or death.
 
-
-
-CHAPTER EIGHT
+=== CHAPTER EIGHT
 
 For a moment, before this extraordinary find, they forgot their own
 concerns and sensations. Señor Hirsch’s sensations as he lay there must
@@ -9211,14 +9123,9 @@ mountains showed him on the smooth waters the upper corner of the sail,
 a dark wet triangle of canvas waving slightly to and fro. He saw it
 vanish, as if jerked under, and then struck out for the shore.
 
+== PART THIRD THE LIGHTHOUSE
 
-
-
-
-PART THIRD THE LIGHTHOUSE
-
-
-CHAPTER ONE
+=== CHAPTER ONE
 
 Directly the cargo boat had slipped away from the wharf and got lost
 in the darkness of the harbour the Europeans of Sulaco separated, to
@@ -10881,9 +10788,7 @@ escape. But Ignacio leered morosely over his shoulder.
 “Take a good look at the mules, mi amo,” he grumbled. “You shall never
 see them again!”
 
-
-
-CHAPTER FOUR
+=== CHAPTER FOUR
 
 Charles Gould turned towards the town. Before him the jagged peaks
 of the Sierra came out all black in the clear dawn. Here and there a
@@ -11492,9 +11397,7 @@ with her spoiled, pouting face of a favourite maid, leading the Viola
 girls by the hand. The crockery rattled on table and sideboard, and the
 whole house seemed to sway in the deafening wave of sound.
 
-
-
-CHAPTER FIVE
+=== CHAPTER FIVE
 
 During the night the expectant populace had taken possession of all the
 belfries in the town in order to welcome Pedrito Montero, who was
@@ -11780,9 +11683,7 @@ of a corpse. His eloquent mouth had dropped open. His youngest daughter,
 scratching her head with one hand, with the other waved a green bough
 over his scorched and peeling face.
 
-
-
-CHAPTER SIX
+=== CHAPTER SIX
 
 The declining sun had shifted the shadows from west to east amongst the
 houses of the town. It had shifted them upon the whole extent of the
@@ -12015,9 +11916,7 @@ eyes seemed to transfix the priest, who stood still, an empty wooden
 snuff-box held upside down in his hand, and glared back, speechless, at
 the governor of the mine.
 
-
-
-CHAPTER SEVEN
+=== CHAPTER SEVEN
 
 At about that time, in the Intendencia of Sulaco, Charles Gould was
 assuring Pedrito Montero, who had sent a request for his presence there,
@@ -12317,9 +12216,7 @@ magnificent and unconscious wild beast. Then, in the suddenly steadied
 glance fixed upon nothing from under a thoughtful frown, appeared the
 man.
 
-
-
-CHAPTER EIGHT
+=== CHAPTER EIGHT
 
 After landing from his swim Nostromo had scrambled up, all dripping,
 into the main quadrangle of the old fort; and there, amongst ruined bits
@@ -13180,9 +13077,7 @@ what the doctor could not understand.
 
 Nostromo kept very still.
 
-
-
-CHAPTER NINE
+=== CHAPTER NINE
 
 Distracted between doubts and hopes, dismayed by the sound of bells
 pealing out the arrival of Pedrito Montero, Sotillo had spent the
@@ -14241,9 +14136,7 @@ lasted for a long time.
 
 “God rest her soul!” he murmured, gloomily.
 
-
-
-CHAPTER TEN
+=== CHAPTER TEN
 
 The next day was quiet in the morning, except for the faint sound of
 firing to the northward, in the direction of Los Hatos. Captain Mitchell
@@ -15145,9 +15038,7 @@ bushes, concealing the hiding-place of the silver.
 
 “I must grow rich very slowly,” he meditated, aloud.
 
-
-
-CHAPTER ELEVEN
+=== CHAPTER ELEVEN
 
 Sulaco outstripped Nostromo’s prudence, growing rich swiftly on the
 hidden treasures of the earth, hovered over by the anxious spirits of
@@ -15739,9 +15630,7 @@ of a merciless nightmare, she stammered out aimlessly the words—
 
 “Material interest.”
 
-
-
-CHAPTER TWELVE
+=== CHAPTER TWELVE
 
 Nostromo had been growing rich very slowly. It was an effect of his
 prudence. He could command himself even when thrown off his balance.
@@ -16464,9 +16353,7 @@ the unlawful treasure. The light in the room went out, and weighted with
 silver, the magnificent Capataz clasped her round her white neck in the
 darkness of the gulf as a drowning man clutches at a straw.
 
-
-
-CHAPTER THIRTEEN
+=== CHAPTER THIRTEEN
 
 On the day Mrs. Gould was going, in Dr. Monygham’s words, to “give a
 tertulia,” Captain Fidanza went down the side of his schooner lying in
