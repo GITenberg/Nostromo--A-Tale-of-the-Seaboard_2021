@@ -1,46 +1,53 @@
-# -*- coding: utf-8-unix; -*-
-_repo: Nostromo--A-Tale-of-the-Seaboard_2021
+_repo: Nostromo-A-Tale-of-the-Seaboard_2021
 _version: 0.0.1
-covers:
-- attribution: Priscilla Parizeau, 2015
-  cover_type: original
-  image_path: cover.jpg
-  rights: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-  rights_url: https://creativecommons.org/licenses/by-nc/4.0/
 creator:
   author:
     agent_name: Conrad, Joseph
-    # The Project Gutenberg metadata appears to be taken from the
-    # Library of Congress where Conrad's name are given in the
-    # order below (as opposed to "Józef Teodor Konrad" as seen, for
-    # example, in the Wikipedia article).
-    # See: https://lccn.loc.gov/n79054067
     aliases:
-    - Korzeniowski, Józef Konrad Teodor
     - Korzeniowski, Jozef Konrad Teodor
+    - Korzeniowski, Józef Konrad Teodor
+    - Korzeniowski, Joseph Conrad Theodore
     birthdate: 1857
     deathdate: 1924
     gutenberg_agent_id: '125'
     url: http://www.gutenberg.org/2009/agents/125
-    wikipedia: https://en.wikipedia.org/wiki/Joseph_Conrad
-description: 'Wikipedia: https://en.wikipedia.org/wiki/Nostromo'
-gutenberg_bookshelf:
-- Best Books Ever Listings
-gutenberg_issued: '2004-06-29'
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+description: "Nostromo (full title Nostromo: A Tale of the Seaboard) is a 1904 novel\
+  \ by Joseph Conrad, set in the fictitious South American republic of \"Costaguana\"\
+  . It was originally published serially in two volumes of T.P.'s Weekly.\nIn 1998,\
+  \ the Modern Library ranked Nostromo 47th on its list of the 100 best English-language\
+  \ novels of the 20th century. F. Scott Fitzgerald said, \"I'd rather have written\
+  \ Nostromo than any other novel.\" Nostromo is often regarded as Conrad's best novel.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2006-01-09'
 gutenberg_type: Text
 identifiers:
   gutenberg: '2021'
+  wikidata: Q430248
 language: en
-publication_date: 2015-08-01
 publisher: Project Gutenberg
-rights: CC BY-NC
-rights_url: http://creativecommons.org/licenses/by-nc/4.0/
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
 subjects:
-- !lcsh Sea Stories
-- !lcsh Political Fiction
-- !lcsh Sailors -- Fiction
-- !lcsh Revolutions -- Fiction
-- !lcsh Latin America -- Fiction
-- !lcc PS
-title: Nostromo: A Tale of the Seaboard
+- !lcsh 'Latin America -- Fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'Revolutions -- Fiction'
+- !lcsh 'Sailors -- Fiction'
+- !lcsh 'Sea stories'
+- !lcc 'PR'
+- GITenberg
+title: 'Nostromo: A Tale of the Seaboard'
 url: http://www.gutenberg.org/ebooks/2021
+wikipedia:
+- https://fr.wikipedia.org/wiki/Nostromo
+- https://ar.wikipedia.org/wiki/%D9%86%D9%88%D8%B3%D8%AA%D8%B1%D9%88%D9%85%D9%88
+- https://nl.wikipedia.org/wiki/Nostromo
+- https://pt.wikipedia.org/wiki/Nostromo
+- https://pl.wikipedia.org/wiki/Nostromo
+- https://de.wikipedia.org/wiki/Nostromo
+- https://es.wikipedia.org/wiki/Nostromo_(novela)
+- https://en.wikipedia.org/wiki/Nostromo
+- https://it.wikipedia.org/wiki/Nostromo_(romanzo)
+- https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%BC%D0%BE
+- https://ro.wikipedia.org/wiki/Nostromo
