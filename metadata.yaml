@@ -1,5 +1,8 @@
 _repo: Nostromo--A-Tale-of-the-Seaboard_2021
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Conrad, Joseph
@@ -19,6 +22,8 @@ description: "Nostromo (full title Nostromo: A Tale of the Seaboard) is a 1904 n
   \ novels of the 20th century. F. Scott Fitzgerald said, \"I'd rather have written\
   \ Nostromo than any other novel.\" Nostromo is often regarded as Conrad's best novel.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2021#Nostromo--A-Tale-of-the-Seaboard
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2006-01-09'
 gutenberg_type: Text
